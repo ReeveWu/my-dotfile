@@ -1,1 +1,3 @@
 .vscode
+.DS_Store
+.shellScripts/.DS_Store
